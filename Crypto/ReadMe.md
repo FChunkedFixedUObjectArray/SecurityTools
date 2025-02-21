@@ -1,0 +1,2 @@
+# Crypto
+- Instead of resetting passwords for all SSH servers in a corporate network after a breach. It is instead much easier to utilize an SSH public key. This directory contains multiple of my own public keys. You should generate your own via openssl.

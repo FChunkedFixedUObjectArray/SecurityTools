@@ -1,2 +1,2 @@
 # SecurityTools
-A set of tools that can be used as a starting point to implement secure operating procedures for an Organization.
+This Repo contains a set of security tools I utilize when securing an organization.
